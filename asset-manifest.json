@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/task-urbansoft/static/css/main.1bdb4f94.chunk.css",
-    "main.js": "/task-urbansoft/static/js/main.db253bb9.chunk.js",
-    "main.js.map": "/task-urbansoft/static/js/main.db253bb9.chunk.js.map",
+    "main.js": "/task-urbansoft/static/js/main.c87759cf.chunk.js",
+    "main.js.map": "/task-urbansoft/static/js/main.c87759cf.chunk.js.map",
     "runtime-main.js": "/task-urbansoft/static/js/runtime-main.f00aa715.js",
     "runtime-main.js.map": "/task-urbansoft/static/js/runtime-main.f00aa715.js.map",
-    "static/js/2.2de41c70.chunk.js": "/task-urbansoft/static/js/2.2de41c70.chunk.js",
-    "static/js/2.2de41c70.chunk.js.map": "/task-urbansoft/static/js/2.2de41c70.chunk.js.map",
+    "static/js/2.77fa469d.chunk.js": "/task-urbansoft/static/js/2.77fa469d.chunk.js",
+    "static/js/2.77fa469d.chunk.js.map": "/task-urbansoft/static/js/2.77fa469d.chunk.js.map",
     "index.html": "/task-urbansoft/index.html",
     "static/css/main.1bdb4f94.chunk.css.map": "/task-urbansoft/static/css/main.1bdb4f94.chunk.css.map",
-    "static/js/2.2de41c70.chunk.js.LICENSE.txt": "/task-urbansoft/static/js/2.2de41c70.chunk.js.LICENSE.txt"
+    "static/js/2.77fa469d.chunk.js.LICENSE.txt": "/task-urbansoft/static/js/2.77fa469d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f00aa715.js",
-    "static/js/2.2de41c70.chunk.js",
+    "static/js/2.77fa469d.chunk.js",
     "static/css/main.1bdb4f94.chunk.css",
-    "static/js/main.db253bb9.chunk.js"
+    "static/js/main.c87759cf.chunk.js"
   ]
 }

@@ -1,0 +1,8 @@
+.wrapper {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: #5e91f8;
+  color: #fff;
+  font-size: 2em;
+}
